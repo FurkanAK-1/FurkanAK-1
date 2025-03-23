@@ -1,13 +1,3 @@
-![MasterHead](https://i.hizliresim.com/jzzcuop.jpg)
-![](https://komarev.com/ghpvc/?username=FurkanAK-1&color=blue)
-
-
-<h3 align="left">&nbsp; A passionate backend developer from Türkiye</h3>
-
-- 🔭 I’m currently working on **OOP, Spring**
-
-- 💬 Ask me about **JAVA OOP**
-
 - 📫 How to reach me **furkan.ak@stu.fsm.edu.tr**
 
 
